@@ -1,0 +1,33 @@
+<! DOCTYPE html >
+< html >
+  < cabeza >
+  < título > planificación.html </ título >
+  </ cabeza >
+  < body  bgcolor = " WHITE " text = " BLACK " >
+   < p > bienbenido a mi pagina web </ p >
+   < p > ... </ p >
+< img  src = " 123.PNG " >
+< h1 > OBGETIVO GENERAL </ h1 >
+< p > Ofrecer a la Unad un recurso de aprendisaje que dinamice y facilite la educacion de sus estudiantes </ p >
+< h1 > OBGETIVO ESPECIFICO 1 </ h1 >
+< p > subir contenidos informativos y dejarlos a disposicion del publico </ p >
+< h1 > OBGETIVO ESPECIFICO 2 </ h1 >
+< p > ofertar los sevicios que presta la univercidad </ p >
+< h1 > OBGETIVO ESPECIFICO3 </ h1 >
+< p > permitir el acceso desde múltiples lugares a esta pagina   </ p >
+< h1 > MATERIALES </ h1 >
+< P >  < un  href = " https://balsamiq.com/products/mockups/ " > Balsamiq maquetas </ una >  </ p >
+< p > HTML5 </ p >
+< h1 > CONTENIDO </ h1 >
+< p > contenido de lectura de sección </ p >
+< p > titulo </ p >
+< p > Imagen de un celular </ p >
+< p > Cuadro de texto </ p >
+< p > Videos e imágenes informativas </ p >
+< p > Cuadro de opciones </ p >
+< p > Calendario </ p > 
+< p > Iconos de asociación y pago al programa </ p >
+< p > Iconos de redes sociales </ p >
+< p > Enlace </ p >
+  </ cuerpo >
+</ html >
